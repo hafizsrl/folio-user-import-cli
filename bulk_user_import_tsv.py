@@ -2,10 +2,11 @@ import csv
 import requests
 import re
 
+# get credential here https://docs.folio.org/docs/getting-started/ (Snapshot Server)
 okapi = "https://folio-snapshot-okapi.dev.folio.org"
 tenant = "diku"
 username = "diku_admin"
-password = "admin"
+password = "required"
 tsv_file = "users.tsv"   # Your TSV file path
 
 # === LOGIN ===
