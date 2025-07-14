@@ -33,6 +33,11 @@ linatan	100100002	950000000012	undergrad	Tan	Lina	lina.tan2@example.com	013-1000
 
 You can export from Excel as "Text (Tab delimited) *.txt" and rename as .tsv.
 
+
+![Screenshot of CLI in action](img/1.png)
+
+
+
 ### 3. Run the CLI
 
 ```bash
