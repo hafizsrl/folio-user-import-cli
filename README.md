@@ -45,6 +45,8 @@ python bulk_user_import_tsv.py users.tsv \
 
 Change values as needed for your own FOLIO instance.
 
+https://docs.folio.org/docs/getting-started/
+
 ### Arguments
 
 | Argument      | Description                 | Default |
