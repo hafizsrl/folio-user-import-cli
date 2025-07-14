@@ -1,0 +1,11 @@
+username	externalSystemId	barcode	patronGroup	lastName	firstName	email	phone	addressLine1	addressLine2	city	postalCode	region	expirationDate
+azlanmusa	100100001	950000000011	undergrad	Musa	Azlan	azlan.musa1@example.com	013-1000001	21 Jalan Damai	Taman Sentosa	Kuala Lumpur	50050	WP	2027-12-31
+linatan	100100002	950000000012	undergrad	Tan	Lina	lina.tan2@example.com	013-1000002	15 Jalan Indah	Taman Melati	Petaling Jaya	46200	Selangor	2028-01-15
+ridzuanlee	100100003	950000000013	undergrad	Lee	Ridzuan	ridzuan.lee3@example.com	014-1000003	5 Jalan Aman	Taman Desa	Ipoh	30000	Perak	2027-09-01
+faridahong	100100004	950000000014	undergrad	Ong	Faridah	faridah.ong4@example.com	015-1000004	88 Jalan Mawar	Seri Iskandar	Kuala Lumpur	50500	WP	2027-06-20
+raihanli	100100005	950000000015	undergrad	Li	Raihan	raihan.li5@example.com	016-1000005	2 Jalan Merdeka	Taman Jaya	Shah Alam	40100	Selangor	2026-11-30
+aidilramli	100100006	950000000016	undergrad	Ramli	Aidil	aidil.ramli6@example.com	017-1000006	12 Jalan Wawasan	Taman Sri	Melaka	75200	Melaka	2027-08-10
+sofiamah	100100007	950000000017	undergrad	Mah	Sofia	sofia.mah7@example.com	018-1000007	27 Jalan Setia	Taman Putra	Seremban	70300	Negeri Sembilan	2027-12-31
+khalidahassan	100100008	950000000018	undergrad	Hassan	Khalida	khalida.hassan8@example.com	019-1000008	30 Jalan Kenanga	Taman Cempaka	Alor Setar	05000	Kedah	2028-02-05
+zulnazim	100100009	950000000019	undergrad	Nazim	Zul	zul.nazim9@example.com	012-1000009	43 Jalan Sutera	Taman Bukit	Kuantan	25200	Pahang	2027-10-25
+emilyngee	100100010	950000000020	undergrad	Ngee	Emily	emily.ngee10@example.com	013-1000010	9 Jalan Impian	Taman Tasik	Kota Bharu	15000	Kelantan	2027-05-18
